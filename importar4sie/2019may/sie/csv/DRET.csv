@@ -1,0 +1,112 @@
+RET_CVE,RET_NOM,RET_NCO
+1,Cálculo Integral ,Cálculo Integral 
+2,Probabilidad y Estadística,Probabilidad y Estadística
+3,Álgebra Lineal,Algebra Lineal
+4,Química,Química
+5,Contabilidad Financiera,Contabilidad Financiera
+6,Programación Orientada a Objetos,Programación Orientada a Objetos
+7,Métodos Numéricos,Métodos Numéricos
+8,Ecuaciones Diferenciales,Ecuaciones Diferenciales
+9,Fundamentos de Base de Datos,Fundamentos de Base de Datos
+10,Tópicos Avanzados de Programación,Tópicos Avanzados de Programación
+11,Simulación,Simulación
+12,Principios Elect. Y App Móviles,Principios Elect. Y App Móviles
+13,Taller de Investigación I,Taller de Investigación I
+14,Redes de Computadoras,Redes de Computadoras
+15,Lenguaje de Interfaz,Lenguaje de Interfaz
+16,Ingeniería de Software,Ingeniería de Software
+17,Administración de Base de Datos,Administración de Base de Datos
+18,Taller de Sistemas Operativos,Taller de Sistemas Operativos
+19,Lenguajes y Autómatas I,Lenguajes y Automatas I
+20,Redes Inalámbricas Móviles,Redes Inalámbricas Móviles
+21,Tecnologías Web,Tecnologías Web
+22,Taller de Investigación II,Taller de Investigación II
+23,Internet de las Cosas,Internet de las Cosas
+24,Administración de Redes,Administración de Redes
+25,Inteligencia Artificial,Inteligencia Artificial
+26,Programación Lógica Funcional,Programación Lógica Funcional
+27,Cultura y Vida Comunitaria,Cultura y Vida Comunitaria
+28,Organización de Grupos,Organización de Grupos
+29,Botánica,Botánica
+30,Cálculo Diferencial,Cálculo Diferencia
+31,Tecnologías de la Información y las Comunicaciones,Tecnologías de la Información y las Comunicaciones
+32,Estadística I,Estadística I
+33,Edafología,Edafología
+34,Zoología,Zoología
+35,Taller de Diagnósticos y Participación Comunitaria,Taller de Diagnósticos y Participación Comunitaria
+36,Física II,Física II
+37,Fisiología Vegetal y Animal,Fisiología Vegetal y Animal
+38,Fundamentos de Contabilidad y Costos,Fundamentos de Contabilidad y Costos
+39,Taller de Desarrollo Comunitario,Taller de Desarrollo Comunitario
+40,Agroecología,Agroecología
+41,Manejo y Conservación del Agua,Manejo y Conservación del Agua
+42,Agroclimatología,Agroclimatología
+43,Calidad y Administración de la Producción,Calidad y Administración de la Producción
+44,Cadenas Productivas,Cadenas Productivas
+45,Taller de Gestión,Taller de Gestión
+46,Ordenamiento Territorial,Ordenamiento Territorial
+47,Formulación y Evaluación Económica Financiera de Proyectos,Formulación y Evaluación Económica Financiera de Proyectos
+48,Normatividad Aplicada a Proyectos,Normatividad Aplicada a Proyectos
+49,Consultoría Municipal,Consultoría Municipal
+50,Comportamiento Organizacional,Comportamiento Organizacional
+51,Taller de Administración II,Taller de Administración II
+52,Tic´s Aplicadas a la Administración,Tic´s Aplicadas a la Administración
+53,Taller de Ética,Taller de Ética
+54,Contabilidad Administrativa,Contabilidad Administrativa
+55,Capital Humano I,Capital Humano I
+56,Desarrollo Sustentable,Desarrollo Sustentable
+57,Administración Financiera I,Administración Financiera I
+58,Derecho Mercantil,Derecho Mercantil
+59,Estadística II,Estadística II
+60,Economía,Economía
+61,Mezcla de Mercadotecnia,Mezcla de Mercadotecnia
+62,Innovación Tecnológica II,Innovación Tecnológica II
+63,Gestión Estratégica,Gestión Estratégica
+64,Diseño Organizacional,Diseño Organizacional
+65,Administración de la Producción,Administración de la Producción
+66,Analisis de la Problemática Nacional,Analisis de la Problemática Nacional
+67,Plan de Negocios,Plan de Negocios
+68,Mercadotecnia Electrónica,Mercadotecnia Electrónica
+69,Marco Legal Para Proyectos de Inversión,Marco Legal Para Proyectos de Inversión
+70,Taller para la Formulación y Evaluación de Proyectos de Inversión,Taller para la Formulación y Evaluación de Proyectos de Inversión
+71,Análisis Económico Financiero,Análisis Económico Financiero
+72,Estrategia Publicitaria y Promocional,Estrategia Publicitaria y Promocional
+73,Cultura y Patrimonio Gastronómico Nacional e Internacional,Cultura y Patrimonio Gastronómico Nacional e Internacional
+74,Fundamentos de Gestión Empresarial,Fundamentos de Gestión Empresarial
+75,Bases Culinarias,Bases Culinarias
+76,Higiene en el Manejo de Alimentos y Bebidas,Higiene en el Manejo de Alimentos y Bebidas
+77,Mercadotecnia,Mercadotecnia
+78,Protocolo de Seguridad,Protocolo de Seguridad
+79,Panadería,Panadería
+80,Economia Empresarial,Economia Empresarial
+81,Finanzas en las Organizaciones ,Finanzas en las Organizaciones 
+82,El Emprendedor y la Innovación,El Emprendedor y la Innovación
+83,"Tecnología de Frutas, Hortalizas y Confintería","Tecnología de Frutas, Hortalizas y Confintería"
+84,Etnología y Vitivincultura,Etnología y Vitivincultura
+85,Gestión Estratégica,Gestión Estratégica
+86,Banquetes,Banquetes
+87,Cocina Internacional I,Cocina Internacional I
+88,Estancia Técnica Nacional,Estancia Técnica Nacional
+89,Formulación y Evaluación de Proyectos,Formulación y Evaluación de Proyectos
+90,Estética en la Gastronomía,Estética en la Gastronomía
+91,Estancia Técnica Internacional,Estancia Técnica Internacional
+92,Cocina Experimental,Cocina Experimental
+93,Consultoría Aplicada a la Gastronomía,Consultoría Aplicada a la Gastronomía
+94,Dirección de Establecimientos de Alimentación y Bebidas,Dirección de Establecimientos de Alimentación y Bebidas
+95,Cadena de Suminitros,Cadena de Suminitros
+96,Dibujo Asistido por Computadora,Dibujo Asistido por Computadora
+97,Fundamentos de Derecho,Fundamentos de Derecho
+98,Base de Datos,Base de Datos
+99,Inventarios,Inventarios
+100,Servicio al Cliente,Servicio al Cliente
+101,Estadística Inferencial I,Estadística Inferencial I
+102,Legislación Aduanera,Legislación Aduanera
+103,Tópicos de Ingeniería Mecánica,Tópicos de Ingeniería Mecánica
+104,Higiene y seguridad,Higiene y seguridad
+105,Investigación de Operaciones 1,Investigación de Operaciones 2
+106,"Empaque, Envase y Embalaje","Empaque, Envase y Embalaje"
+107,Ingeniería Económica,Ingeniería Económica
+108,Finanzas,Finanzas
+109,Innovación,Innovación
+110,Modelo de Simulación y Logística,Modelo de Simulación y Logística
+111,Formulación y Evaluación de Proyectos,Formulación y Evaluación de Proyectos

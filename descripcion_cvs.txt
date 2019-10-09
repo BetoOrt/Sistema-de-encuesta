@@ -1,0 +1,41 @@
+==DALU==  LISTADO DE ALUMNOS QUE EVALUARAN
+ALU_CTR	= matricula
+ALU_NOM	= nombre con apellidos
+ALU_ESP	= id carrera
+ALU_PLA	= id plan de estudios
+ALU_SEM	= semestre actual
+ELE_CRE	= usar por default 0 (cero)
+ALU_PAS = contraseño para acceso al sistema en MD5
+
+==DCAT== LISTADO DE DOCENTES
+CAT_CVE	= id del docente
+CAT_DEP	= id del departamento academico al que corresponde el docente
+CAT_NOM = nombre con apellidos
+
+==DDEP== LISTADO DE DEPARTAMENTOS
+DEP_CVE	= id del depto. debe ser el que usa CAT_DEP
+DEP_NOM	= nombre del depto.
+DEP_NCO = nombre corto del depto.
+
+==DESP== LISTADO DE CARRERAS
+ESP_CVE	= id de la carrera
+ESP_NOM	= nombre completo de la carrera
+ESP_NCO = nombre corto de la carrera
+
+==DGAU== LISTADO DE LOS GRUPOS OFERTADOS
+GPO_MAT	= clave de la materia
+GPO_GPO	= id del grupo (A, B, C)
+GPO_CAT	= id del docente
+GPO_NUM	= consecutivo de grupos
+GPO_LHR	= hora en que se imparte(no necesario)
+GPO_AUL = aula en que se imparte(no necesario)
+
+==DLIS= LISTA DE ALUMNOS POR GRUPO
+LIS_CTR	= matricula del alumno
+LIS_MAT	= clave de la materia (corresponde a DGAU - GPO_MAT)
+LIS_GPO = id del grupo (corresponde a DGAU - GPO_GPO)
+
+==DRET== LISTADO DE MATERIAS QUE DEBEN SER EVALUADAS
+RET_CVE	= clave de la materia
+RET_NOM	= nombre de la materia
+RET_NCO = nombre corto de la materia

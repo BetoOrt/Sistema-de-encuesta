@@ -1,0 +1,19 @@
+PASO A SEGUIR PARA CARGAR Y FUNCIONAR EL SED
+
+1.- exportar del sie 58300 SISTEMA ITVILLAHERMOSA
+2.- copiamos los dbfs a evaltec/importar4sie/AAAAmmm/sie/dbf   (AAAAmmm = 2015may, 2015nov)
+3.- configuramos el archivo comun/configuracion.php $year y $month
+4.- validamos los datos: http://direccion/evaltec/importar4sie/dat.php
+	debe al final decir que todo fue con exito
+5.- importamos de sie a evaldoc: http://direccion/evaltec/importar4sie/dat.php
+	pide los datos del servidor de base de datos:
+	host: localhost
+	user: root
+	clave: 1t5r20i5
+el acceso por parte de desarrollo academico o quien administre la encuesta:
+	http://direccion/evaltec/evaldes
+	usuario: desaca
+	clave: privilegiados1
+
+
+update 2015maydalu set alu_pas='65d2ea03425887a717c435081cfc5dbb'

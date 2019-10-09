@@ -1,0 +1,99 @@
+"tipo(A:lumnos, P:osgrado, I:ntegracion, V:erano)",rubro(de la tabla:PreguntasRubros),numero,texto,a,b,c,d,e
+A,A,1,Explica de manera clara los contenidos de la asignatura.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,A,2,Relaciona los contenidos de la asignatura con los contenidos de otras.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,A,3,Resuelve las dudas relacionadas con los contenidos de la asignatura.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,A,4,Propone ejemplos o ejercicios que vinculan la asignatura con la práctica profesional.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,A,5,Explica la utilidad de los contenidos teóricos y prácticos para la actividad profesional.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,B,6,Cumple con los acuerdos establecidos al inicio de la asignatura.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,B,7,Durante el curso establece las estrategias adecuadas necesarias para lograr el aprendizaje deseado.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,B,8,El programa presentado al principio de la asignatura se cubre totalmente.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,C,9,"Incluye experiencias de aprendizaje en lugares diferentes al aula (talleres, laboratorios, empresas, comunidad, etc.).",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,C,10,"Utiliza para el aprendizaje las herramentas de interacción de las tecnologías actuales de la información (correo electrónico, chats, plataformas, etc.).",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,C,11,Organiza actividades que me permiten ejercitar mi expresión oral y escrita.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,C,12,"Relaciona los contenidos de la asignatura con la industria y la sociedad a nivel local, regional. nacional e internacional.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,C,13,Usa ejemplos y casos relacionados con la vida real.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,D,14,Adapta las actividades para atender los diferentes estilos de aprendizaje de los estudiantes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,D,15,Promueve el autodidactismo y la investigación.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,D,16,Promueve actividades participativas que me permiten colaborar con mis compañeros con una actividad positiva.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,D,17,Estimula la reflexión sobre la manera en que aprendes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,D,18,Se involucra en las actividades propuestas al grupo.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,D,19,Presenta y expone las clases de manera organizada y estructurada.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,D,20,"Utiliza diversas estrategias, métodos, medios y materiales.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,E,21,Muestra compromiso y entusiasmo en sus actividades docentes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,E,22,"Toma en cuenta las necesidades, intereses y expectativas del grupo.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,E,23,Propicia el desarrollo de un ambiente de respeto y confianza.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,E,24,Propicia la curiosidad y el deseo de aprender.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,E,25,Reconoce los éxitos y logros en las actividades de aprendizaje.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,E,26,Existe la impresión de que se toman represalias con algunos estudiantes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,E,27,Hace interesante la asignatura.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,F,28,Identifica los conocimientos y habilidades de los estudiantes al inicio de la asignatura o de cada unidad.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,F,29,Proporciona información para realizar adecuadamente las actividades de evaluación.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,F,30,Toma en cuenta las actividades realizadas y los productos como evidencias para la calificación y acreditación de la asignatura.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,F,31,"Considera los resultados de la evaluación (asesorías, trabajos complementarios, búsqueda de información, etc.) para realizar mejoras en el aprendizaje.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,F,32,Da a conocer las calificaciones en el plazo establecido.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,F,33,Da oportunidad de mejorar los resultados de la evaluación del aprendizaje.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,F,34,Muestra apertura para la corrección de errores de apreciación y evaluación.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,F,35,Otorga calificaciones imparciales.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,G,36,Desarrolla la clase en un clima de apertura y entendimiento.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,G,37,Escucha y toma en cuenta las opiniones de los estudiantes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,G,38,Muestra congruencia entre lo que dice y lo que hace.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,H,39,Asiste a clases regular y puntualmente.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,H,40,Fomenta la importancia de contribuir a la conservación del medio ambiente.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,H,41,Promueve mantener limpias y ordenadas las instalaciones.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,H,42,Es accesible y está dispuesto a brindarte ayuda académica.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,I,43,Emplea las tecnologías de la informacion y de la comunicación como un medio que facilite el aprendizaje de los estudiantes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,I,44,"Promueve el uso de diversas herramientas, particularmente las digitales, para gestionar (recabar, procesar, evaluar y usar) información.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,I,45,"Promueve el uso seguro, legal y ético de la información digital.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,J,46,"En general, pienso que es un buen docente.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,J,47,Estoy satisfecha o satisfecho por mi nivel de desempeño y aprendizaje logrado gracias a la labor del docente.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,J,48,Yo recomendaría a este docente a otros compañeros.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+A,J,49,Comentario Adicional,,,,,
+P,A,1,Explica de manera clara los contenidos de la asignatura.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,A,2,Relaciona los contenidos de la asignatura con los contenidos de otras.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,A,3,Resuelve las dudas relacionadas con los contenidos de la asignatura.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,A,4,Propone ejemplos o ejercicios que vinculan la asignatura con la práctica profesional.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,A,5,Explica la utilidad de los contenidos teóricos y prácticos para la actividad profesional.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,B,6,Cumple con los acuerdos establecidos al inicio de la asignatura.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,B,7,Durante el curso establece las estrategias adecuadas necesarias para lograr el aprendizaje deseado.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,B,8,El programa presentado al principio de la asignatura se cubre totalmente.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,C,9,"Incluye experiencias de aprendizaje en lugares diferentes al aula (talleres, laboratorios, empresas, comunidad, etc.).",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,C,10,"Utiliza para el aprendizaje las herramentas de interacción de las tecnologías actuales de la información (correo electrónico, chats, plataformas, etc.).",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,C,11,Organiza actividades que me permiten ejercitar mi expresión oral y escrita.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,C,12,"Relaciona los contenidos de la asignatura con la industria y la sociedad a nivel local, regional. nacional e internacional.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,C,13,Usa ejemplos y casos relacionados con la vida real.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,D,14,Adapta las actividades para atender los diferentes estilos de aprendizaje de los estudiantes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,D,15,Promueve el autodidactismo y la investigación.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,D,16,Promueve actividades participativas que me permiten colaborar con mis compañeros con una actividad positiva.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,D,17,Estimula la reflexión sobre la manera en que aprendes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,D,18,Se involucra en las actividades propuestas al grupo.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,D,19,Presenta y expone las clases de manera organizada y estructurada.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,D,20,"Utiliza diversas estrategias, métodos, medios y materiales.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,E,21,Muestra compromiso y entusiasmo en sus actividades docentes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,E,22,"Toma en cuenta las necesidades, intereses y expectativas del grupo.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,E,23,Propicia el desarrollo de un ambiente de respeto y confianza.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,E,24,Propicia la curiosidad y el deseo de aprender.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,E,25,Reconoce los éxitos y logros en las actividades de aprendizaje.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,E,26,Existe la impresión de que se toman represalias con algunos estudiantes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,E,27,Hace interesante la asignatura.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,F,28,Identifica los conocimientos y habilidades de los estudiantes al inicio de la asignatura o de cada unidad.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,F,29,Proporciona información para realizar adecuadamente las actividades de evaluación.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,F,30,Toma en cuenta las actividades realizadas y los productos como evidencias para la calificación y acreditación de la asignatura.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,F,31,"Considera los resultados de la evaluación (asesorías, trabajos complementarios, búsqueda de información, etc.) para realizar mejoras en el aprendizaje.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,F,32,Da a conocer las calificaciones en el plazo establecido.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,F,33,Da oportunidad de mejorar los resultados de la evaluación del aprendizaje.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,F,34,Muestra apertura para la corrección de errores de apreciación y evaluación.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,F,35,Otorga calificaciones imparciales.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,G,36,Desarrolla la clase en un clima de apertura y entendimiento.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,G,37,Escucha y toma en cuenta las opiniones de los estudiantes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,G,38,Muestra congruencia entre lo que dice y lo que hace.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,H,39,Asiste a clases regular y puntualmente.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,H,40,Fomenta la importancia de contribuir a la conservación del medio ambiente.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,H,41,Promueve mantener limpias y ordenadas las instalaciones.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,H,42,Es accesible y está dispuesto a brindarte ayuda académica.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,I,43,Emplea las tecnologías de la informacion y de la comunicación como un medio que facilite el aprendizaje de los estudiantes.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,I,44,"Promueve el uso de diversas herramientas, particularmente las digitales, para gestionar (recabar, procesar, evaluar y usar) información.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,I,45,"Promueve el uso seguro, legal y ético de la información digital.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,J,46,"En general, pienso que es un buen docente.",Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,J,47,Estoy satisfecha o satisfecho por mi nivel de desempeño y aprendizaje logrado gracias a la labor del docente.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,J,48,Yo recomendaría a este docente a otros compañeros.,Totalmente de Acuerdo,de Acuerdo,Indeciso,en Desacuerdo,Totalmente en Desacuerdo
+P,J,49,Comentario Adicional,,,,,

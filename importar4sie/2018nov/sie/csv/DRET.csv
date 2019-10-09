@@ -1,0 +1,105 @@
+RET_CVE,RET_NOM,RET_NCO
+1,Taller de Ética ,Taller de Ética 
+2,Matemáticas  Discretas,Matemáticas  Discretas
+3,Calculo Diferencial,Calculo Diferencial
+4,Fundamentos de Programación,Fundamentos de Programación
+5,Fundamentos de Investigación,Fundamentos de Investigación
+6,Taller de Administración ,Taller de Administración 
+7,Cultura Empresarial,Cultura Empresarial
+8,Calculo Vectorial,Calculo Vectorial
+9,Investigación de Operaciones,Investigación de Operaciones
+10,Desarrollo Sustentable ,Desarrollo Sustentable 
+11,Estructura de Datos,Estructura de Datos
+12,Física General,Física General
+13,Fundamentos de Telecomunicaciones,Fundamentos de Telecomunicaciones
+14,Taller de Base de Datos,Taller de Base de Datos
+15,Fundamentos de Ingeniería  de Software,Fundamentos de Ingeniería  de Software
+16,Arquitectura  de Computadoras,Arquitectura  de Computadoras
+17,Graficación,Graficación
+18,Sistemas Operativos,Sistemas Operativos
+19,Lenguajes y Autómatas II,Lenguajes y Autómatas II
+20,Programación Web,Programación Web
+21,Conmutación y Enrutamiento en Redes de Datos,Conmutación y Enrutamiento en Redes de Datos
+22,Gestión de Proyectos de Software,Gestión de Proyectos de Software
+23,Modelado de Aplicaciones ,Modelado de Aplicaciones 
+24,Sistemas Programables ,Sistemas Programables 
+25,Tópicos Selectos de Programación  Movil,Tópicos Selectos de Programación  Movil
+26,Sociologia  Rural,Sociologia  Rural
+27,Biología,Biología
+28,Algebra Lineal,Algebra Lineal
+29,Fundamentos de Desarrollo Comunitario,Fundamentos de Desarrollo Comunitario
+30,Socioeconomia y Politica De México,Socioeconomia y Politica De México
+31,Fundamentos de Administración,Fundamentos de Administración
+32,Microbiologia ,Microbiologia 
+33,Calculo Integral,Calculo Integral
+34,Fisica I,Fisica I
+35,Bioquimica ,Bioquimica 
+36,Estadistica II,Estadistica II
+37,Sistemas de Información Geografica,Sistemas de Información Geografica
+38,Ecología ,Ecología 
+39,Politicas Públicas de Desarrollo Social,Politicas Públicas de Desarrollo Social
+40,Taller de Planificación Regional,Taller de Planificación Regional
+41,Introducción a la Producción Agropecuaria y Forestal,Introducción a la Producción Agropecuaria y Forestal
+42,Analisís Económico,Analisís Económico
+43,Taller de Investigación II,Taller de Investigación II
+44,Planeación y Creaciones de Nuevas Empresas,Planeación y Creaciones de Nuevas Empresas
+45,Formulación y Evaluación de Proyectos,Formulación y Evaluación de Proyectos
+46,Evaluación Tecnológica,Evaluación Tecnológica
+47,Biotecnológia,Biotecnológia
+48,Dinámica Social,Dinámica Social
+49,Taller de Administración I,Taller de Administración I
+50,Contabilidad Aplicada a la Ingeniería,Contabilidad Aplicada a la Ingeniería
+51,Tecnologías de la Información,Tecnologías de la Información
+52,Matemáticas Financieras,Matemáticas Financieras
+53,Estadísticas I,Estadísticas I
+54,Comunicación Organizacional,Comunicación Organizacional
+55,Mercadotecnia,Mercadotecnia
+56,Derecho Laboral,Derecho Laboral
+57,Macroeconomía ,Macroeconomía 
+58,Investigación de Mercado,Investigación de Mercado
+59,Innovación Tecnológica I,Innovación Tecnológica I
+60,Administración Financiera II,Administración Financiera II
+61,Capital Humano II,Capital Humano II
+62,Derecho Fiscal,Derecho Fiscal
+63,Investigación de Operaciones ,Investigación de Operaciones 
+64,Taller de Investigación I,Taller de Investigación I
+65,Consultoría,Consultoría
+66,Normatividad Aplicable para la Elaboración de Proyectos de Inversión,Normatividad Aplicable para la Elaboración de Proyectos de Inversión
+67,Administración de la Calidad,Administración de la Calidad
+68,Auditoría Administrativa,Auditoría Administrativa
+69,Economía Internacional ,Economía Internacional 
+70,Desarrollo de Productos y Servicios,Desarrollo de Productos y Servicios
+71,Introducción a la Gastronomía,Introducción a la Gastronomía
+72,Matemáticas para Gastronomía,Matemáticas para Gastronomía
+73,Microbiología de los Alimentos,Microbiología de los Alimentos
+74,Física en Gastronomía,Física en Gastronomía
+75,Software de Aplicación Ejecutivo,Software de Aplicación Ejecutivo
+76,Gestión de Capital Humano,Gestión de Capital Humano
+77,Probabilidad y Estadística,Probabilidad y Estadística
+78,Costo y Manejo de Almacenes ,Costo y Manejo de Almacenes 
+79,Fundamentos de Turísmo ,Fundamentos de Turísmo 
+80,Química y Conservación de los Alimentos,Química y Conservación de los Alimentos
+81,Cocina Mexicana,Cocina Mexicana
+82,Calidad Aplicada ala Gestión Empresarial,Calidad Aplicada ala Gestión Empresarial
+83,Marco Legal de las Organizaciones,Marco Legal de las Organizaciones
+84,Nutrición Dietética,Nutrición Dietética
+85,Coctelería,Coctelería
+86,Introducción ala Repostería,Introducción ala Repostería
+87,Cocina Internacional II,Cocina Internacional II
+88,Escultura en Hielo y Mukimono,Escultura en Hielo y Mukimono
+89,Gastronomía Oaxaqueña,Gastronomía Oaxaqueña
+90,Bebidas Tradicionales Oaxaqueñas,Bebidas Tradicionales Oaxaqueñas
+91,Panes y Postres Oaxaqueños,Panes y Postres Oaxaqueños
+92,Almacenes ,Almacenes 
+93,Estadísticas Inferencial II,Estadísticas Inferencial II
+94,Tipologia del Producto,Tipologia del Producto
+95,Desarrollo Humano y Organizacional,Desarrollo Humano y Organizacional
+96,Contabilidad y Costos,Contabilidad y Costos
+97,Investigación de Operaciones II,Investigación de Operaciones II
+98,Tráfico y Transporte,Tráfico y Transporte
+99,Compras,Compras
+100,Entorno Económico,Entorno Económico
+101,Mecánica Clásica,Mecánica Clásica
+102,Desarrollo Sustentable,Desarrollo Sustentable
+103,Introdución a la Ing. En Logística,Introdución a la Ing. En Logística
+104,Economía,Economía

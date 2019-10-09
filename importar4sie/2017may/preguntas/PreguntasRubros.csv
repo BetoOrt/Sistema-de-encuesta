@@ -1,0 +1,21 @@
+"rubtipo(A:lumnos, P:osgrado, I:ntegracion, V:erano)",rubclave,rubtexto
+A,A,Dominio de la asignatura
+A,B,Planificación del curso
+A,C,Ambientes de aprendizaje
+A,D,"Estrategias, métodos y técnicas"
+A,E,Motivación
+A,F,Evaluación
+A,G,Comunicación
+A,H,Gestión del curso
+A,I,Tecnologías de la información y comunicación
+A,J,Satisfacción general
+P,A,Dominio de la asignatura
+P,B,Planificación del curso
+P,C,Ambientes de aprendizaje
+P,D,"Estrategias, métodos y técnicas"
+P,E,Motivación
+P,F,Evaluación
+P,G,Comunicación
+P,H,Gestión del curso
+P,I,Tecnologías de la información y comunicación
+P,J,Satisfacción general

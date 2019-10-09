@@ -1,0 +1,104 @@
+RET_CVE,RET_NOM,RET_NCO
+1,Cálculo Integral,Cálculo Integral
+2,Taller de Ética,Taller de Ética
+3,Contabilidad Administrativa,Contabilidad Administrativa
+4,Comportamiento Organizacional,Comportamiento Organizacional
+5,Tic´s Aplicada a la Administración,Tic´s Aplicada a la Administración
+6,Taller de Administración II,Taller de Administración II
+7,Derecho Mercantil,Derecho Mercantil
+8,Estadística II,Estadística II
+9,Desarrollo Sustentable,Desarrollo Sustentable
+10,Mezcla de Mercadotécnia,Mezcla de Mercadotécnia
+11,Capital Humano I,Capital Humano I
+12,Administración Financiera I,Administración Financiera I
+13,Economía,Economía
+14,Investigación de Mercado,Investigación de Mercado
+15,Auditoría Administrativa,Auditoría Administrativa
+16,Taller de Investigación I,Taller de Investigación I
+17,Administración Financiera II,Administración Financiera II
+18,Análisis de la Problemática Nacional,Análisis de la Problemática Nacional
+19,Administración de la Producción,Administración de la Producción
+20,Administración de la Calidad,Administración de la Calidad
+21,Consultoría,Consultoría
+22,Economía Intenacional,Economía Intenacional
+23,Taller para la Formulación y Evaluación de Proyectos de Inversión,Taller para la Formulación y Evaluación de Proyectos de Inversión
+24,Estrategia Publicitaria y Promocional,Estrategia Publicitaria y Promocional
+25,Gestión Estratégica,Gestión Estratégica
+26,Marco Legal para Proyectos de Inversión,Marco Legal para Proyectos de Inversión
+27,Cultura y Vida Comunitaria,Cultura y Vida Comunitaria
+28,Organización de Grupos,Organización de Grupos
+29,Botánica,Botánica
+30,Química,Química
+31,Cálculo Diferencial,Cálculo Diferencial
+32,Tecnología de la Información y las Comunicaciones,Tecnología de la Información y las Comunicaciones
+33,Estadística I,Estadística I
+34,Taller de Diagnóstico y Participación Comunitaria,Taller de Diagnóstico y Participación Comunitaria
+35,Zoología,Zoología
+36,Edafología,Edafología
+37,Física II,Física II
+38,Fisiología Vegetal y Animal,Fisiología Vegetal y Animal
+39,Fundamentos de Contabilidad y Costos,Fundamentos de Contabilidad y Costos
+40,Taller de Desarrollo Comunitario,Taller de Desarrollo Comunitario
+41,Agroecología,Agroecología
+42,Manejo y Conservación del Agua,Manejo y Conservación del Agua
+43,Sistemas de Información Geográfica,Sistemas de Información Geográfica
+44,Calidad y Administración de la Producción,Calidad y Administración de la Producción
+45,Cadenas Productivas,Cadenas Productivas
+46,Taller de Gestión,Taller de Gestión
+47,Ordenamiento Territorial,Ordenamiento Territorial
+48,Formulación y Evaluación Económica y Financiera de Proyectos,Formulación y Evaluación Económica y Financiera de Proyectos
+49,Normatividad Aplicada a Proyectos,Normatividad Aplicada a Proyectos
+50,Consultoría Municipal,Consultoría Municipal
+51,Física en Gastronomía,Física en Gastronomía
+52,Mercadotécnia,Mercadotécnia
+53,Bases Culinarias,Bases Culinarias
+54,Cultura y Patrimonio Gastronómico Nacional e Internacional,Cultura y Patrimonio Gastronómico Nacional e Internacional
+55,Higiene en el Manejo de Alimentos y Bebidas,Higiene en el Manejo de Alimentos y Bebidas
+56,Fundamentos de Gestión  Empresarial,Fundamentos de Gestión  Empresarial
+57,Probabilidad y Estadística,Probabilidad y Estadística
+58,Protocolo de Seguridad,Protocolo de Seguridad
+59,El Emprendedor y la Innovación,El Emprendedor y la Innovación
+60,Economía Empresarial,Economía Empresarial
+61,Panadería,Panadería
+62,"Tecnologías de Frutas, Hortalizas y Confiterías","Tecnologías de Frutas, Hortalizas y Confiterías"
+63,Enología y Vitivinicultura,Enología y Vitivinicultura
+64,Finanzas en las Organizaciones,Finanzas en las Organizaciones
+65,Fundamentos de Investigación,Fundamentos de Investigación
+66,Estancia Técnica Nacional,Estancia Técnica Nacional
+67,Gestión Estratégica,Gestión Estratégica
+68,Cocina Internacional I,Cocina Internacional I
+69,Cultura Gastronómica II (Mixteca y Sierra Sur),Cultura Gastronómica II (Mixteca y Sierra Sur)
+70,Cultura Gastronómica I (Costa e Itsmo),Cultura Gastronómica I (Costa e Itsmo)
+71,Formulación y Evaluación de Proyectos,Formulación y Evaluación de Proyectos
+72,Cultura Gastronómica IV (Valles Centrales),Cultura Gastronómica IV (Valles Centrales)
+73,Emprendedurismo Aplicado a la Gastronomía,Emprendedurismo Aplicado a la Gastronomía
+74,Dirección de Establecimientos de Alimentos y Bebidas,Dirección de Establecimientos de Alimentos y Bebidas
+75,Estancia Técnica Internacional,Estancia Técnica Internacional
+76,Cocina Experimental,Cocina Experimental
+77,Taller de Investigación II,Taller de Investigación II
+78,Investigación de Operaciones ,Investigación de Operaciones 
+79,Álgebra Lineal,Álgebra Lineal
+80,Programación Orientada a Objetos,Programación Orientada a Objetos
+81,Contabilidad Financiera,Contabilidad Financiera
+82,Lenguajes de Interfaz,Lenguajes de Interfaz
+83,Ingeniería de Software,Ingeniería de Software
+84,Lenguajes y Autómatas I,Lenguajes y Autómatas I
+85,Redes de Computadoras,Redes de Computadoras
+86,Administración de Base de Datos,Administración de Base de Datos
+87,Graficación,Graficación
+88,Simulación,Simulación
+89,Tópicos Avanzados de Programación,Tópicos Avanzados de Programación
+90,Fundamentos de Base de Datos,Fundamentos de Base de Datos
+91,Métodos Numéricos,Métodos Numéricos
+92,Principios Eléctricos y Aplicaciones Digitales,Principios Eléctricos y Aplicaciones Digitales
+93,Ecuaciones Diferenciales,Ecuaciones Diferenciales
+94,Programación Lógica y Funcional,Programación Lógica y Funcional
+95,Administración de Redes,Administración de Redes
+96,Redes Inalámbricas Móbiles,Redes Inalámbricas Móbiles
+97,Inteligencia Artificial,Inteligencia Artificial
+98,Tecnologías WEB,Tecnologías WEB
+99,Internet de las Cosas,Internet de las Cosas
+100,Cadena de Suministro,Cadena de Suministro
+101,Dibujo Asistido por Computadora,Dibujo Asistido por Computadora
+102,Fundamentos de Derecho,Fundamentos de Derecho
+103,Bases de Datos,Bases de Datos
